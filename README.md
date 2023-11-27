@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with low os level I/O routing
 - 💬 Ask me about Frontend in general
 - 📫 How to reach me: ali@nuri.gg
-- 😄 Pronouns: Ali Nuri
-- ⚡ Fun fact: I learning cooking 🥘
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I'm learning cooking 🥘
 
 
